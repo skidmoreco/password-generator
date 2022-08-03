@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # password-generator
-As an assignment for Ohio State Univeristy Bootcamp. We were required create our own portfolio using HTML 5 & CSS3.
+As an assignment for Ohio State Univeristy Bootcamp. We were required create a random password generator using Javascript.
 ## Live Site:
 --- 
 [Github pages](https://skidmoreco.github.io/password-generator/)
